@@ -1,0 +1,11 @@
+C:\Users\jules\source\repos\interfaces\bin\Debug\Array.exe.config
+C:\Users\jules\source\repos\interfaces\bin\Debug\Array.exe
+C:\Users\jules\source\repos\interfaces\bin\Debug\Array.pdb
+C:\Users\jules\source\repos\interfaces\obj\Debug\interfaces.csprojAssemblyReference.cache
+C:\Users\jules\source\repos\interfaces\obj\Debug\Array.Form1.resources
+C:\Users\jules\source\repos\interfaces\obj\Debug\Array.FormCadastroConta.resources
+C:\Users\jules\source\repos\interfaces\obj\Debug\Array.Properties.Resources.resources
+C:\Users\jules\source\repos\interfaces\obj\Debug\interfaces.csproj.GenerateResource.cache
+C:\Users\jules\source\repos\interfaces\obj\Debug\interfaces.csproj.CoreCompileInputs.cache
+C:\Users\jules\source\repos\interfaces\obj\Debug\Array.exe
+C:\Users\jules\source\repos\interfaces\obj\Debug\Array.pdb
